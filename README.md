@@ -26,7 +26,7 @@ The project is currently 90% complete, with ongoing development in UI and featur
 - **File Processing:** PyPDF2, python-docx, Pillow, easyocr
 
 ## Contact
-For inquiries or collaboration opportunities, please reach out to [Your Name] at [Your Email].
+For inquiries or collaboration opportunities, please reach out to me at shafeeubaidah@gmail.com.
 
 ## License
 This project is currently not open-source. Please check back later for updates on licensing and potential open-source release.
