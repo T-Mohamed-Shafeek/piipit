@@ -21,7 +21,7 @@ The project is currently 90% complete, with ongoing development in UI and featur
 
 ## Technologies Used
 - **Frontend:** React.js, Chakra UI
-- **Backend:** Python, Flask Frameworks
+- **Backend:** Python, Flask Framework
 - **AI/ML:** LangChain, Groq API, Llama3.1 for NLP tasks
 - **File Processing:** PyPDF2, python-docx, Pillow, easyocr
 
