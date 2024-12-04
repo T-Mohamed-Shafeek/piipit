@@ -1,4 +1,4 @@
-# PYP (Protect Your PII) - A Hybrid PII Detection and Management Application
+# piipit - A Hybrid PII Detection and Management Application
 
 ## Project Overview
 The Hybrid PII Detection and Management application is designed to identify and protect Personally Identifiable Information (PII) embedded in various data and document formats, including images. This application focuses specifically on government-issued documents such as Aadhaar, PAN, Driving License, Passport, MHA ID, and Credit Cards.
